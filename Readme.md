@@ -4,6 +4,6 @@
 
 ### Contidos dentro da pasta /public
 
-- Exercício 1
+- [Exercício 1](./pages/exercicio1.html)
 - Exercício 2
 - Exercício 3
